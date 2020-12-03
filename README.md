@@ -43,6 +43,14 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="Vinay GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  ![111801034 github stats](https://github-readme-stats.vercel.app/api?username=111801034&show_icons=true&hide_border=true)
+
+</details>
+
 -------------------------------------------
 
 [linkedin]: https://www.linkedin.com/in/pulavarti-vinay-kumar-9b06321a0/
