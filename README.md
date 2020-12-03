@@ -38,6 +38,4 @@ Here are some ideas to get you started:
 
 </details>
 
--------------------------------------------
-
 [linkedin]: https://www.linkedin.com/in/pulavarti-vinay-kumar-9b06321a0/
